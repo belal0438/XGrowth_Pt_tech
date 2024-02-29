@@ -16,4 +16,7 @@ sequelize
       console.log(`Server is running at Port ${process.env.PORT || 3000}`);
     });
   })
-  .catch((err) => console.log("sequallize connection failed!!", err));
+  .catch((err) => {
+    console.log("sequallize connection failed!!", err);
+    process.exit(1);
+  });

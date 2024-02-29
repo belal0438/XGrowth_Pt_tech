@@ -1,0 +1,36 @@
+[
+    {
+      "username": "mohd_belal",
+      "email": "belal@example.com",
+      "user_information": {
+        "first_name": "mohd",
+        "last_name": "belal",
+        "age": 22,
+        "gender":"male",
+        "address":"mau district utter pradesh"
+      }
+    },
+    {
+      "username": "ahmad",
+      "email": "ahmad@example.com",
+      "user_information": {
+        "first_name": "mohd",
+        "last_name": "ahmad",
+        "age": 25,
+        "gender":"male",
+        "address":"utter pradesh"
+      }
+    },
+    {
+      "username": "ayan",
+      "email": "ayan@example.com",
+      "user_information": {
+        "first_name": "ayan",
+        "last_name": "ahmad",
+        "age": 25,
+        "gender":"male",
+        "address":"utter pradesh"
+      }
+    }
+  ]
+  
